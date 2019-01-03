@@ -11,7 +11,10 @@ namespace SchoolSupplies
             double litresCleaner = double.Parse(Console.ReadLine());
             double discount = double.Parse(Console.ReadLine()) * 0.01;
 
+            double totalExpenses = numberPens * 5.8 + numberMarkers * 7.2 + litresCleaner * 1.2;
+            double finalSum = totalExpenses - totalExpenses * discount;
 
+            Console.WriteLine($"{finalSum:F3}");
         }
     }
 }
