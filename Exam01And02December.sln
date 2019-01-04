@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.EnergyBoosters", "03.Ene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SkiTrip", "03.SkiTrip\03.SkiTrip.csproj", "{7DB32842-6CF1-43EF-9DD2-C67E8A73C8D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Everest", "04.Everest\04.Everest.csproj", "{473287A8-F5D2-451F-A548-744982DDFA88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,6 +68,14 @@ Global
 		{7DB32842-6CF1-43EF-9DD2-C67E8A73C8D6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7DB32842-6CF1-43EF-9DD2-C67E8A73C8D6}.Release|x86.ActiveCfg = Release|Any CPU
 		{7DB32842-6CF1-43EF-9DD2-C67E8A73C8D6}.Release|x86.Build.0 = Release|Any CPU
+		{473287A8-F5D2-451F-A548-744982DDFA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473287A8-F5D2-451F-A548-744982DDFA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473287A8-F5D2-451F-A548-744982DDFA88}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{473287A8-F5D2-451F-A548-744982DDFA88}.Debug|x86.Build.0 = Debug|Any CPU
+		{473287A8-F5D2-451F-A548-744982DDFA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473287A8-F5D2-451F-A548-744982DDFA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473287A8-F5D2-451F-A548-744982DDFA88}.Release|x86.ActiveCfg = Release|Any CPU
+		{473287A8-F5D2-451F-A548-744982DDFA88}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

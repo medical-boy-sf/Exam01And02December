@@ -7,7 +7,7 @@
     <ProjectGuid>{473287A8-F5D2-451F-A548-744982DDFA88}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_04.Everest</RootNamespace>
-    <AssemblyName>_04.Everest</AssemblyName>
+    <AssemblyName>04.Everest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
