@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Everest", "04.Everest\04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PuppyCare", "04.PuppyCare\04.PuppyCare.csproj", "{FCC07FAF-32E9-4745-876D-6094D564BD83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ProjectPrize", "05.ProjectPrize\05.ProjectPrize.csproj", "{9977A3CE-B843-44D3-81C8-9C608CE649E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,14 @@ Global
 		{FCC07FAF-32E9-4745-876D-6094D564BD83}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FCC07FAF-32E9-4745-876D-6094D564BD83}.Release|x86.ActiveCfg = Release|Any CPU
 		{FCC07FAF-32E9-4745-876D-6094D564BD83}.Release|x86.Build.0 = Release|Any CPU
+		{9977A3CE-B843-44D3-81C8-9C608CE649E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9977A3CE-B843-44D3-81C8-9C608CE649E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9977A3CE-B843-44D3-81C8-9C608CE649E9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9977A3CE-B843-44D3-81C8-9C608CE649E9}.Debug|x86.Build.0 = Debug|Any CPU
+		{9977A3CE-B843-44D3-81C8-9C608CE649E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9977A3CE-B843-44D3-81C8-9C608CE649E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9977A3CE-B843-44D3-81C8-9C608CE649E9}.Release|x86.ActiveCfg = Release|Any CPU
+		{9977A3CE-B843-44D3-81C8-9C608CE649E9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
