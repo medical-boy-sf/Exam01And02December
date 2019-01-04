@@ -1,35 +1,57 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SchoolSupplies", "01.SchoolSupplies\01.SchoolSupplies.csproj", "{76BA5292-9609-43BB-9E74-C0600C0000A4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TrekkingEquipment", "01.TrekkingEquipment\01.TrekkingEquipment.csproj", "{7F91A90E-7614-4856-AD3D-29679DCA316A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MountainRun", "02.MountainRun\02.MountainRun.csproj", "{6EB01131-7E27-4051-A302-B98EAB5FB7FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76BA5292-9609-43BB-9E74-C0600C0000A4}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{76BA5292-9609-43BB-9E74-C0600C0000A4}.Debug|x86.ActiveCfg = Debug|x86
 		{76BA5292-9609-43BB-9E74-C0600C0000A4}.Debug|x86.Build.0 = Debug|x86
+		{76BA5292-9609-43BB-9E74-C0600C0000A4}.Release|Any CPU.ActiveCfg = Release|x86
 		{76BA5292-9609-43BB-9E74-C0600C0000A4}.Release|x86.ActiveCfg = Release|x86
 		{76BA5292-9609-43BB-9E74-C0600C0000A4}.Release|x86.Build.0 = Release|x86
+		{7F91A90E-7614-4856-AD3D-29679DCA316A}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{7F91A90E-7614-4856-AD3D-29679DCA316A}.Debug|x86.ActiveCfg = Debug|x86
 		{7F91A90E-7614-4856-AD3D-29679DCA316A}.Debug|x86.Build.0 = Debug|x86
+		{7F91A90E-7614-4856-AD3D-29679DCA316A}.Release|Any CPU.ActiveCfg = Release|x86
 		{7F91A90E-7614-4856-AD3D-29679DCA316A}.Release|x86.ActiveCfg = Release|x86
 		{7F91A90E-7614-4856-AD3D-29679DCA316A}.Release|x86.Build.0 = Release|x86
+		{6EB01131-7E27-4051-A302-B98EAB5FB7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB01131-7E27-4051-A302-B98EAB5FB7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB01131-7E27-4051-A302-B98EAB5FB7FB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6EB01131-7E27-4051-A302-B98EAB5FB7FB}.Debug|x86.Build.0 = Debug|Any CPU
+		{6EB01131-7E27-4051-A302-B98EAB5FB7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB01131-7E27-4051-A302-B98EAB5FB7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB01131-7E27-4051-A302-B98EAB5FB7FB}.Release|x86.ActiveCfg = Release|Any CPU
+		{6EB01131-7E27-4051-A302-B98EAB5FB7FB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28BCCDE9-8A40-4F72-BA26-A9FF1719F87F}
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
 		$0.DotNetNamingPolicy = $1
 		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
-		$0.TextStylePolicy = $2
+		$0.TextStylePolicy = $4
 		$2.inheritsSet = null
 		$2.scope = text/x-csharp
 		$0.CSharpFormattingPolicy = $3
 		$3.scope = text/x-csharp
-		$0.TextStylePolicy = $4
 		$4.FileWidth = 80
 		$4.TabsToSpaces = True
 		$4.scope = text/plain
