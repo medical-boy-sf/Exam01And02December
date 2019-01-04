@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MountainRun", "02.Mounta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SchoolTrip", "02.SchoolTrip\02.SchoolTrip.csproj", "{434A2D1C-81B9-4518-B61E-A0495E8A7C79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.EnergyBoosters", "03.EnergyBoosters\03.EnergyBoosters.csproj", "{0D248240-6442-438A-A7CA-EDE6A925B473}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,14 @@ Global
 		{434A2D1C-81B9-4518-B61E-A0495E8A7C79}.Release|Any CPU.Build.0 = Release|Any CPU
 		{434A2D1C-81B9-4518-B61E-A0495E8A7C79}.Release|x86.ActiveCfg = Release|Any CPU
 		{434A2D1C-81B9-4518-B61E-A0495E8A7C79}.Release|x86.Build.0 = Release|Any CPU
+		{0D248240-6442-438A-A7CA-EDE6A925B473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D248240-6442-438A-A7CA-EDE6A925B473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D248240-6442-438A-A7CA-EDE6A925B473}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0D248240-6442-438A-A7CA-EDE6A925B473}.Debug|x86.Build.0 = Debug|Any CPU
+		{0D248240-6442-438A-A7CA-EDE6A925B473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D248240-6442-438A-A7CA-EDE6A925B473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D248240-6442-438A-A7CA-EDE6A925B473}.Release|x86.ActiveCfg = Release|Any CPU
+		{0D248240-6442-438A-A7CA-EDE6A925B473}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
